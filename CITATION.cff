@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "SpineMetrix core: sagittal spinal parameter computation"
+message: "If you use this software, please cite the archived release (DOI below)."
+type: software
+license: Apache-2.0
+repository-code: "<GITHUB URL>"
+url: "https://spinemetrix.com"
+version: "0.1.0"
+date-released: "2026-09-22"
+doi: "<ZENODO DOI>"
+abstract: >-
+  Reference implementation of the sagittal spinal parameters computed by SpineMetrix
+  (pelvic incidence, pelvic tilt, sacral slope, lumbar lordosis and thoracic kyphosis)
+  from marked vertebra corners on sagittal radiographs. Published for reproducibility:
+  it is the same code that runs in the application.
+keywords:
+  - spine
+  - sagittal balance
+  - pelvic incidence
+  - radiographic measurement
+  - reproducibility
+authors:
+  - family-names: "Delgado"
+    given-names: "Adimilson dos Santos"
+  - family-names: "Montagnoli"
+    given-names: "Arlindo Neto"
+    affiliation: "Universidade Federal de São Carlos (UFSCar)"
+    email: "arlindo@ufscar.br"
+  - family-names: "Morais"
+    given-names: "Bruna Souza"
+  - family-names: "Santos"
+    given-names: "Fabíula Barbosa Machado dos"
+  - family-names: "Montagnoli"
+    given-names: "Pedro Chiusoli"
+  - family-names: "Pereira"
+    given-names: "Paulo Miguel da Silva"
+  - family-names: "Defino"
+    given-names: "Helton Luiz Aparecido"
