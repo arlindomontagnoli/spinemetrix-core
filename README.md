@@ -88,6 +88,11 @@ Not here yet: Cobb from inflection points, Roussouly classification, T4-L1-Hip,
 and the surgical planning model. They are being extracted from the application in the same way, one
 verified step at a time, and will land here.
 
+## Documentation
+
+`docs/Spine_Metrix_Clinical_Manual_EN.pdf` — clinical manual: the parameters, how they are measured
+and how to read them. `docs/SpineMetrix_User_Tutorial_EN.pdf` — how to use the application itself.
+
 ## Citing
 
 Cite the archived release with its DOI rather than this repository directly, so the version is
