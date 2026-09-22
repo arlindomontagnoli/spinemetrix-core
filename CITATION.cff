@@ -22,10 +22,6 @@ keywords:
 authors:
   - family-names: "Delgado"
     given-names: "Adimilson dos Santos"
-  - family-names: "Montagnoli"
-    given-names: "Arlindo Neto"
-    affiliation: "Universidade Federal de São Carlos (UFSCar)"
-    email: "arlindo@ufscar.br"
   - family-names: "Morais"
     given-names: "Bruna Souza"
   - family-names: "Santos"
@@ -36,3 +32,12 @@ authors:
     given-names: "Paulo Miguel da Silva"
   - family-names: "Defino"
     given-names: "Helton Luiz Aparecido"
+  - family-names: "Montagnoli"
+    given-names: "Arlindo Neto"
+    affiliation: "Universidade Federal de São Carlos (UFSCar)"
+    email: "arlindo@ufscar.br"
+contact:
+  - family-names: "Montagnoli"
+    given-names: "Arlindo Neto"
+    affiliation: "Universidade Federal de São Carlos (UFSCar)"
+    email: "arlindo@ufscar.br"
