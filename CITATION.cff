@@ -3,7 +3,7 @@ title: "SpineMetrix core: sagittal spinal parameter computation"
 message: "If you use this software, please cite the archived release (DOI below)."
 type: software
 license: Apache-2.0
-repository-code: "<GITHUB URL>"
+repository-code: "https://github.com/arlindomontagnoli/spinemetrix-core"
 url: "https://spinemetrix.com"
 version: "0.1.0"
 date-released: "2026-09-22"
