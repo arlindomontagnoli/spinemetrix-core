@@ -1,5 +1,7 @@
 # SpineMetrix core
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22900527.svg)](https://doi.org/10.5281/zenodo.22900527)
+
 Open-source implementation of the sagittal spinal parameters computed by
 [SpineMetrix](https://spinemetrix.com) — pelvic incidence (PI), pelvic tilt (PT), sacral slope (SS),
 lumbar lordosis (LL) and thoracic kyphosis (TK) — published so that results obtained with the
@@ -89,7 +91,7 @@ verified step at a time, and will land here.
 ## Citing
 
 Cite the archived release with its DOI rather than this repository directly, so the version is
-pinned. See `CITATION.cff`.
+pinned: [https://doi.org/10.5281/zenodo.22900527](https://doi.org/10.5281/zenodo.22900527). See `CITATION.cff` for the full entry.
 
 ## License
 

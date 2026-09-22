@@ -7,7 +7,7 @@ repository-code: "https://github.com/arlindomontagnoli/spinemetrix-core"
 url: "https://spinemetrix.com"
 version: "0.1.0"
 date-released: "2026-09-22"
-doi: "<ZENODO DOI>"
+doi: "10.5281/zenodo.22900527"
 abstract: >-
   Reference implementation of the sagittal spinal parameters computed by SpineMetrix
   (pelvic incidence, pelvic tilt, sacral slope, lumbar lordosis and thoracic kyphosis)
